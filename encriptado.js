@@ -1,9 +1,9 @@
 /*
-La varra "a" es convertida para "ai"
-La varra "e" es convertida para "enter"
-La varra "i" es convertida para "imes"
-La varra "o" es convertida para "ober"
-La varra "u" es convertida para "ufat"
+La vocal "a" es convertida para "ai"
+La vocal "e" es convertida para "enter"
+La vocal "i" es convertida para "imes"
+La vocal "o" es convertida para "ober"
+La vocal "u" es convertida para "ufat"
 
 */
 //    i para que afecte a mayuscula o minuscula 
